@@ -1,0 +1,17 @@
+
+#canvas{
+    border: 1px solid black;
+}
+#frame{
+    display: flex;
+    align-items: center;
+    height:45vh ;
+    justify-content:center;
+}
+#button{
+    display: flex;
+    align-items: center;
+    height: 10vh;
+    gap: 5px;
+    justify-content: center;
+}
